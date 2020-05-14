@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Kate McGinn, About</title>
+		<!-- link to main stylesheet -->
+		<link rel="stylesheet" type="text/css" href="/css/main.css">
+	</head>
+	<body>
+		<nav>
+    		<ul>
+        		<li><a href="/">Home</a></li>
+	        	<li><a href="/about">About</a></li>
+        		<li><a href="/cv">CV</a></li>
+        		<li><a href="/blog">Blog</a></li>
+    		</ul>
+		</nav>
+		<div class="container">
+    		<div class="blurb">
+        		<h1>Hi there, I'm Hank Quinlan!</h1>
+				<p>I have been a graduate student in the 	<li><a href="http://labs.russell.wisc.edu/peery/">Peery lab</a></li> since 2019. 
+        I use a number of methods to examine the effect rising temperatures and variable precipitation on the individual fitness and 
+        demographic rates of California spotted owls. I am also using bioacoustic methods to examine the co-existence of forest owl 
+        species in the Sierra Nevada. 
+        
+        I graduated with a B.A. from Colorado College in 2018, where I studied the population ecology of Flammulated owls in Pike National 
+        Forest. I completed a thesis that examined habitat selection by male Flammulated owls throughout their breeding season, and I kicked 
+        off an extensive project to understand the migration patterns of the small owl species. Following graduation, I stayed on with Colorado 
+        College's Organismal Biology and Ecology department as a paraprofessional. </p>
+    		</div><!-- /.blurb -->
+		</div><!-- /.container -->
+		
+	</body>
+</html>
